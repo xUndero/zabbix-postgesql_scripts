@@ -1,0 +1,1 @@
+# zabbix-postgesql_scripts
